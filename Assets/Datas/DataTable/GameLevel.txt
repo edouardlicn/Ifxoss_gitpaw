@@ -1,0 +1,9 @@
+﻿#	关卡表
+#	int		string
+# 游戏规则，type1为基本模式（后面有需要再加）
+#关卡名称,游戏规则,BGM,是否有野怪,对手1,对手2,对手3,野怪1,野怪2,野怪3,野怪4
+,1,a1,type1,BGM01,FALSE,cat001,cat001,cat001,cat001,cat001,cat001,cat001
+,2,a2,type1,BGM02,TRUE,cat001,cat001,cat001,cat001,cat001,cat001,cat001
+,3,a3,type1,BGM02,TRUE,cat001,cat001,cat001,cat001,cat001,cat001,cat001
+,4,a4,type1,BGM02,TRUE,cat001,cat001,cat001,cat001,cat001,cat001,cat001
+,5,a5,type1,BGM02,TRUE,cat001,cat001,cat001,cat001,cat001,cat001,cat001

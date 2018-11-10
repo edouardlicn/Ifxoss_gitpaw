@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Dictionaries>
+    <Dictionary Language="ChineseSimplified">
+        <String Key="Game.Name" Value="猫爪" />
+        <String Key="Game.Description" Value="開发版本" />
+        <String Key="Game.Website" Value="http://Ifxoss.com/" />
+        <String Key="Game.Summary" Value="Ifxoss游戏开发计划。" />
+        <String Key="Game.Introduction" Value="Game Framework 是基于 Unity 5.3+ 引擎的游戏框架，主要对游戏开发过程中常用模块进行了封装，很大程度地规范开发过程、加快开发速度并保证产品质量。" />
+        <String Key="Menu.StartButton" Value="开始" />
+        <String Key="Menu.SettingButton" Value="设置" />
+        <String Key="Menu.AboutButton" Value="关于" />
+        <String Key="Menu.QuitButton" Value="退出" />
+        <String Key="Button.Go" Value="开始" />
+        <String Key="Button.Back" Value="返回" />
+        <String Key="Button.Confirm" Value="确认" />
+        <String Key="Button.Cancel" Value="取消" />
+        
+        
+        
+        <String Key="Dialog.ConfirmButton" Value="确定" />
+        <String Key="Dialog.CancelButton" Value="取消" />
+        <String Key="Dialog.OtherButton" Value="" />
+        <String Key="ForceUpdate.Title" Value="强制更新" />
+        <String Key="ForceUpdate.Message" Value="当前游戏版本过旧，是否前往更新？" />
+        <String Key="ForceUpdate.UpdateButton" Value="更新" />
+        <String Key="ForceUpdate.QuitButton" Value="退出" />
+        <String Key="AskQuitGame.Title" Value="确认退出" />
+        <String Key="AskQuitGame.Message" Value="是否确认退出游戏？" />
+        <String Key="Setting.Title" Value="设置" />
+        <String Key="Setting.Music" Value="音乐" />
+        <String Key="Setting.Sound" Value="音效" />
+        <String Key="Setting.UISound" Value="界面音效" />
+        <String Key="Setting.Language" Value="语言" />
+        <String Key="Setting.LanguageTips" Value="更改语言需要重启游戏" />
+        <!-- 基础内容 -->
+        <String Key="Game.Coin" Value="金币" />
+        <String Key="Game.Diamond" Value="钻石" />
+        <String Key="Game.Endmission" Value="战斗结束" />
+        <String Key="Game.Exp" Value="经验值" />
+        <String Key="Text.MissionTarget" Value="任务目标" />
+        <String Key="Text.TeammateNum" Value="人员数量" />
+        <String Key="Text.Winner" Value="胜利者" />
+        <!-- 大厅 -->
+        <String Key="Hall.BattleMap" Value="前往任务" />
+        <!-- 地图 --> 
+        <String Key="Map.Back" Value="返回大厅" />
+        <String Key="Map.MissionTitle" Value="任务信息" />
+        <!-- 角色选择画面 -->  
+        <String Key="Text.Press_Space_To_Confirm" Value="按空格键选定角色" />
+        <String Key="Button.BacktoMap" Value="回老家" />
+        <!-- 战斗界面 --> 
+        <!-- 系统设置，为本游戏设计 -->  
+        <String Key="Setting.Clearsave" Value="清除记录" /> 
+        <!-- 胜利条件 -->  
+        <String Key="Text.MissionTarget_type1" Value="2分钟内占领场景最大面积。" />
+        <!-- 角色姓名 -->     
+        
+    </Dictionary>
+</Dictionaries>
