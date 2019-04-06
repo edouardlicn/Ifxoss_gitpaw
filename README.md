@@ -1,7 +1,7 @@
 # Ifxoss_gitpaw
 Ifxoss gitpaw is a project base on EllanJiang's GameFramework 3.1.5 https://github.com/EllanJiang/GameFramework .
 
-Project can be open with Unity2018.
+Project can be open with Unity2018.2.12f1
 
 CO-Auther(s):
 
